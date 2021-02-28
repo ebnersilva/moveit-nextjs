@@ -2,7 +2,7 @@
   Move.it
 </h3>
 
-<blockquote align="center">Vença desafios, ganhe pontos, suba de nível e não perca tempo!</blockquote>
+<blockquote align="center">Vença desafios, ganhe pontos e suba de nível!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ebnersilva/moveit-nextjs?color=%2304D361">
