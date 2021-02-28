@@ -2,7 +2,7 @@
   Move.it
 </h3>
 
-<blockquote align="center">Vença desafios, ganhe pontos e suba de nível!</blockquote>
+<blockquote align="center">Win challenges, earn points and level up!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ebnersilva/moveit-nextjs?color=%2304D361">
@@ -15,26 +15,26 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-a-aplicação">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-about-the-app">About the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
-## :memo: Como utilizar?
+## :memo: How to use?
 
 - **`git clone https://github.com/ebnersilva/moveit-nextjs`**
 - **`yarn or npm install`**
 - **`yarn dev`**
 - **`😄 enjoy 😄`**
 
-## :rocket: Sobre a aplicação
+## :rocket: About the app
 
-Sabemos que pessoas que trabalham o dia todo na frente do computador acabam não tirando aquele tempo essencial no dia a dia para cuidar do corpo e mente.
+We know that people who work all day in front of the computer end up not taking that essential time in the day to day to take care of the body and mind.
 
-De acordo com o problema surgiu o Move.it uma aplicação desenvolvida na next level week 4 da Rocketseat. Com essa aplicação você pode trabalhar com um cronômetro que ao terminar o tempo de cada "sprint" você recebe um desafio (Desafio esse para cuidar de sua saúde). Finalizando o desafio você ganha pontos, aumenta o seu xp e pode subir de nível dependendo do level em que você está.
+According to the problem came the Move it an application developed in rocketseat's next level week 4. With this application you can work with a stopwatch that when you finish the time of each sprint you receive a challenge (Challenge to take care of your health). By finishing the challenge you earn points, increase your xp and can level up depending on the level you are at.
 
-E aí, bora cuidar da saúde?
+So, what's the time for health care?
 
-## :memo: Tecnologias
+## :memo: Technologies
 
 - :memo: **`NextJS`**
 - :cookie: **`Cookies`**
@@ -42,27 +42,27 @@ E aí, bora cuidar da saúde?
 - :memo: **`Deploy on vercel`**
 - :memo: **`Typescript`**
 
-### No momento utilizamos uma fake API
+### We are using a fake API
 
-No back-end utilizamos uma fake-api em um JSON com vários desafios cadastrados mas nada impede que você clone esse repositório, crie uma api e trabalhe da forma que quiser.
+At the back end we use a fake-api in a JSON with several challenges registered but nothing prevents you from clone this repository, create an api and work the way you want.
 
 - **`API: challenges.json`**
 
-### Funcionalidades da aplicação
+### Features
 
-- **`Cronômetro`**: Cronômetro para gerir o tempo para cuidar da sua saúde.
+- **`Stopwatch`**: Stopwatch to manage the time to take care of your health.
 
-- **`Desafios para cuidar da saúde e mente`**: Vários desafios para você cuidar da sua saúde/mente.
+- **`Challenges for caring for health and mind`**: Several challenges for you to take care of your health/mind.
 
-- **`XP`**: Você tem o seu nível de XP que é incrementado a cada desafio.
+- **`XP`**: You have your XP level that is increased with each challenge.
 
-- **`Level`**: Ao fazer desafios o seu level pode aumentar de acordo com a pontuação de cada desafio.
+- **`Level`**: By making challenges your level can increase according to the score of each challenge.
 
-- **`Desafios finalizados`**: A Aplicação também armazena quantos desafios você já finalizou.
+- **`Finished Challenges`**: The Application also stores how many challenges you have already completed.
 
-- **`Armazenamento em Cookies`**: Essa aplicação também armazena os dados de Xp, level, desafios finalizados nos cookies do navegador, dessa forma se você sair do app e entrar novamente seus dados estarão lá, intactos.
+- **`Storage on Cookies`**: This application also stores xp data, level, challenges finalized in browser cookies, so if you exit the app and re-enter your data will be there, intact.
 
-### Demonstração
+### Demo
 
 - **`Dashboard`**
 <p>
@@ -89,10 +89,10 @@ No back-end utilizamos uma fake-api em um JSON com vários desafios cadastrados 
   <img alt="Xp" src="public/XPs.png">
 </p>
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project use a MIT license. See the file [LICENSE](LICENSE) to more details.
 
 ---
 
-Feito com 💜 by Ebner Silva :wave:
+Done with affection 💜 by Ebner Silva :wave:
