@@ -39,6 +39,7 @@ E aí, bora cuidar da saúde?
 - :memo: **`NextJS`**
 - :cookie: **`Cookies`**
 - :memo: **`Context API`**
+- :memo: **`Deploy on vercel`**
 
 ### No momento utilizamos uma fake API
 
