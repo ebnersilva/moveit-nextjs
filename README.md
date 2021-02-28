@@ -40,6 +40,7 @@ E aí, bora cuidar da saúde?
 - :cookie: **`Cookies`**
 - :memo: **`Context API`**
 - :memo: **`Deploy on vercel`**
+- :memo: **`Typescript`**
 
 ### No momento utilizamos uma fake API
 
